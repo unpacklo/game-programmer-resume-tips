@@ -12,7 +12,7 @@
 
 GDC 2020 is fast approaching and you're ready to hit the Expo floor to show your favorite game developers you're the right fit for them, right?  Or maybe you're not, in which case, these tips are for you (and even if you think you're ready, you should probably read anyways)!
 
-Here, I will go over actual resumes I've used in the past and provide some top tips from myself and [@mike_acton](https://twitter.com/mike_acton) who hired me at Insomniac Games in 2016 and then at Unity in 2018.  These tips are intended for students with a programming background who would like to get their first job in the game industry.  The goal is to provide advice to hone your resume so that you get a call back for a phone screen instead of being ignored.
+Here, I will go over actual resumes I've used in the past and provide some top tips from [myself](https://twitter.com/unpacklo) and [@mike_acton](https://twitter.com/mike_acton) who hired me at Insomniac Games in 2016 and then at Unity in 2018.  These tips are intended for students with a programming background who would like to get their first job in the game industry.  The goal is to provide advice to hone your resume so that you get a call back for a phone screen instead of being ignored.
 
 ## Resumes from the Hiring Manager Perspective <a name="hiring-perspective">
 
